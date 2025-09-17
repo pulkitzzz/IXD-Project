@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
   background("rgb(165,247,255)");
-fill ("white")
+fill ("black")
 circle (200,150,110)
 circle (200,100,110)
 fill ("black")
